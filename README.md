@@ -3,7 +3,7 @@ ncl_csc2021_tddCoursework
 
 This is an Eclipse Project used as a framework to support coursework on Test-Driven Development as part of the Software Engineering Module CSC2021 in the School of Computing Science at Newcastle University.
 
-#Usage
+# Usage
 
 1. Clone the repo, or download and extract the zip
 2. Start Eclipse into your normal workspace, or a new workspace
@@ -27,7 +27,7 @@ This is an Eclipse Project used as a framework to support coursework on Test-Dri
 5. You are good to go
 
 
-#Notes
+# Notes
 
 1. There is an example test class called ```ExampleLoggingTest.java``` that should be useful to get you started
 2. **ALL** your test classes need to extend ```AbstractLoggingJUnitTest```, which provides the build hooks to log test events
